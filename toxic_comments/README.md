@@ -5,3 +5,6 @@
 
 ## Используемые бибилиотеки
 pandas, numpy, nltk, re, sklearn, transformers ,matplotlib, catboost, lightgbm, PIL, wordcloud 
+
+## Статус
+Завершен
